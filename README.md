@@ -1,51 +1,58 @@
 
 # Project Name
 Hello Microverse
-> Description the project.
 
+
+# Description the project.
+
+the project is a Hello Microverse project using  standard linters for opening a  professional pull request.
+
+
+The pull request is opened to get a review on the project and check for any required changes.
 
 ## Built With
 
 - html/css
 
-## Live Demo (if available)
-
-[Live Demo Link]
 
 ## Getting Started
 
 **This web page is printing Hello Microverse in big bold letters.**
 
-
+****************************************************
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+
+
 
 ### Setup
 
-### Install
+to use the project Hello Microverse please follow :
+ >Open GitHub and go to the GitHub repository that you want to clone.
+ >Click “Code” and copy the given URL.
+ >click code and copy the URL
+ >click code and copy the URL
+ >Open “Git Bash” and change the current working directory to the location where you want the cloned directory.
+ >Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone.
+
+ >Syntax:
+
+  $ git clone {repository URL}
 
 ### Usage
 
-### Run tests
-
-### Deployment
-
-
+>open your directory Hello world/
+>use you preferd browser to run the file .html
+=result : Hello microverse front page large font-size
 
 ## Authors
 
-👤 **Author1**
+👤 **Said laasri**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Said-laasri](https://github.com/Said-laasri)
+- Twitter: [@saidlaasr]((https://twitter.com/saidlaasr)
+- LinkedIn: [SAID LAASRI](https://www.linkedin.com/in/said-laasri-8a4367172/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
