@@ -8,6 +8,8 @@ Hello Microverse
 the project is a Hello Microverse project using  standard linters for opening a  professional pull request.
 
 
+The pull request is opened to get a review on the project and check for any required changes.
+
 ## Built With
 
 - html/css
